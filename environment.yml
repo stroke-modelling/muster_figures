@@ -1,0 +1,17 @@
+name: muster_figures
+channels:
+  - defaults
+dependencies:
+  - fiona=1.9.5
+  - geopandas=0.14.2
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy=1.24
+  - pandas
+  - pip
+  - python=3.10
+  - pip:
+    - cmasher
+    - stroke-maps
+

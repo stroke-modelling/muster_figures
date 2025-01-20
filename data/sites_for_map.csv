@@ -1,0 +1,31 @@
+ambulance_service,configuration,time_mins,best_config
+EEAST,Luton and Dunstable Hospital,30,1
+EEAST,Luton and Dunstable Hospital,45,0
+EEAST,Southend Hospital,45,0
+EEAST,Basildon University Hospital,30,0
+EEAST,Queen Elizabeth Hospital Kings Lynn,60,0
+EMAS,Leicester Royal Infirmary,30,1
+EMAS,Kings Mill Hospital,30,0
+LAS,Princess Royal University Hospital HASU,30,1
+LAS,University College Hospital HASU,30,0
+LAS,Royal London Hospital HASU,30,0
+LAS,Queens Hospital Romford HASU,30,0
+NEAS,Sunderland Royal Hospital,30,1
+NEAS,James Cook University Hospital,45,0
+NWAS,Stepping Hill Hospital,30,1
+NWAS,Fairfield General Hospital,30,0
+NWAS,University Hospital Aintree,30,0
+SCAS,Royal Berkshire Hospital,45,1
+SCAS,Queen Alexandra Hospital Portsmouth,30,0
+SECAmb,St Peter's Hospital,30,1
+SECAmb,Maidstone District General Hospital,45,0
+SECAmb,Maidstone District General Hospital,30,0
+SECAmb,Invicta Ward Kent and Canterbury Hospital,45,0
+SWAS,Royal Devon and Exeter Hospital,45,1
+SWAS,Musgrove Park Hospital,45,0
+SWAS,Royal Cornwall Hospital,60,0
+WMAS,New Cross Hospital,30,1
+WMAS,Sandwell District Hospital,30,0
+WMAS,Queen Elizabeth Hospital Edgbaston,30,0
+YAS,Calderdale Royal Hospital,30,1
+YAS,Doncaster Royal Infirmary,30,0
