@@ -1,0 +1,41 @@
+ambulance_service,configuration,time_mins,best_config_costeffect,best_config_minpatients,best_config_ambodepriv,best_config_nationaldepriv
+EEAST,Basildon University Hospital,30,0,0,1,0
+EEAST,Luton and Dunstable Hospital,30,1,0,0,1
+EEAST,Luton and Dunstable Hospital,45,0,0,0,0
+EEAST,Queen Elizabeth Hospital Kings Lynn,60,0,0,0,0
+EEAST,Southend Hospital,45,0,0,0,0
+EEAST,Watford General Hospital,30,0,1,0,0
+EMAS,Kings Mill Hospital,30,0,0,1,1
+EMAS,Leicester Royal Infirmary,30,1,0,0,0
+EMAS,Northampton General Hospital,45,0,1,0,0
+LAS,Northwick Park Hospital HASU,30,0,0,1,0
+LAS,Princess Royal University Hospital HASU,30,1,1,0,1
+LAS,Queens Hospital Romford HASU,30,0,0,0,0
+LAS,Royal London Hospital HASU,30,0,0,0,0
+LAS,University College Hospital HASU,30,0,0,0,0
+NEAS,James Cook University Hospital,45,0,0,1,0
+NEAS,Royal Victoria Infirmary,30,0,0,0,1
+NEAS,Sunderland Royal Hospital,30,1,0,0,0
+NEAS,University Hospitals of North Tees and Hartlepool,30,0,1,0,0
+NWAS,Fairfield General Hospital,30,0,0,1,0
+NWAS,Leighton Hospital,45,0,0,0,1
+NWAS,Stepping Hill Hospital,30,1,1,0,0
+NWAS,University Hospital Aintree,30,0,0,0,0
+SCAS,Queen Alexandra Hospital Portsmouth,30,0,0,1,0
+SCAS,Royal Berkshire Hospital,45,1,1,0,1
+SECAmb,Invicta Ward Kent and Canterbury Hospital,45,0,0,1,0
+SECAmb,Maidstone District General Hospital,30,0,1,0,0
+SECAmb,Maidstone District General Hospital,45,0,0,0,0
+SECAmb,St Peter's Hospital,30,1,0,0,1
+SWAS,Gloucestershire Royal Hospital,45,0,0,0,1
+SWAS,Great Western Hospital Swindon,45,0,1,0,0
+SWAS,Musgrove Park Hospital,45,0,0,0,0
+SWAS,Royal Cornwall Hospital,60,0,0,0,0
+SWAS,Royal Devon and Exeter Hospital,45,1,0,1,0
+WMAS,New Cross Hospital,30,1,1,1,0
+WMAS,Queen Elizabeth Hospital Edgbaston,30,0,0,0,0
+WMAS,Sandwell District Hospital,30,0,0,0,0
+WMAS,Worcestershire Royal Hospital,30,0,0,0,1
+YAS,Calderdale Royal Hospital,30,1,1,0,0
+YAS,Doncaster Royal Infirmary,30,0,0,1,0
+YAS,York Hospital,45,0,0,0,1
